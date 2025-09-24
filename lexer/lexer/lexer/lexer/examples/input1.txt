@@ -1,2 +1,0 @@
-printf("This is an example...");
-int x = 10;
